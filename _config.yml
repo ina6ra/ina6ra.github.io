@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-title: イネの部屋
+title: Rice House
 plugins:
   - jekyll-relative-links
 relative_links:
